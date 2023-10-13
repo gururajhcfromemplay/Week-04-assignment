@@ -9,9 +9,9 @@ Submissions are evaluated on Root-Mean-Squared-Error (RMSE) between the logarith
 
 Steps involved in the project:
 
-1.Loading the dataset
+1. Loading the dataset
 
-2.Checking for Null values and Value distribution
+2. Checking for Null values and Value distribution
 
 3. Fixing the Null values using the information shared in data description
 
